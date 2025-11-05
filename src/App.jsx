@@ -5,7 +5,7 @@ function App() {
   
   return (
     <div>
-      <h1 className='title'> Welcome to Filmistan! </h1>
+      <h1 className='title'> Welcome to FilmiWiki! </h1>
 
       <Search/>
     </div>
